@@ -1,0 +1,100 @@
+.homie{
+    width:100%;
+    height:1500px;
+    position: absolute;
+}
+.button
+{
+    height: 8%;
+    width:25%;
+    margin-top: 20%;
+    margin-left:51%;
+    margin-bottom: -50%;
+    position:absolute;
+}
+.white{
+    height: 8%;
+    width:25%;
+    margin-top: 20%;
+    margin-left:35%;
+    margin-bottom: -50%;
+    position:absolute;
+    transform: translate(-20%, -20%);
+}
+.green{
+    height:07%;
+    width:10%;
+    margin-top: 20%;
+    margin-bottom: -50%;
+    position:absolute;
+    border-radius: 20%;
+    transform: translate(-20%, -20%);
+}
+.red{
+    height:07%;
+    width:10%;
+    margin-top: 05%;
+    margin-bottom: -50%;
+    position:absolute;
+    border-radius: 20%;
+    transform: translate(-20%, -20%);
+}
+.blue{
+    height:07%;
+    width:10%;
+    margin-top: 15%;
+    margin-bottom: -50%;
+    position:absolute;
+    border-radius: 20%;
+    transform: translate(-20%, -20%);
+}
+.gold{
+    height:07%;
+    width:10%;
+    margin-top: 10%;
+    margin-bottom: -50%;
+    position:absolute;
+    border-radius: 20%;
+    transform: translate(-20%, -20%);
+}
+.heading1{
+    color: black;
+    position: absolute;
+    margin-left:33%;
+    margin-top: 20%;
+    font-size: 300%;
+    text-decoration: wavy;
+    font-family:cursive;
+}
+.sideHeading1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:2%;
+    margin-top: 05%;
+    font-size: 300%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sideHeading2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:1%;
+    margin-top: 10%;
+    font-size: 300%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sideHeading3{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:1%;
+    margin-top: 15%;
+    font-size: 300%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sideHeading4{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-left:1%;
+    margin-top: 20%;
+    font-size: 300%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
